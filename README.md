@@ -1,5 +1,5 @@
 # SplitWiseApp
-This provides the backend Apis necessary for a splitwise Application
+This provides the backend Apis necessary for a splitwise Application under coding and design project for setu
 
 The Application can be tested by using the collection of apis
 
