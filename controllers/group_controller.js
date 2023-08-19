@@ -53,6 +53,7 @@ const createGroup = async (req, res) => {
     const newGroup = {
       GroupName: req.body.GroupName,
     };
+    const createdGroup = await Group.create(newGroup);
     const userIdList = req.body.users;
     const userGroupList = [];
     for (let id of userIdList) {
