@@ -160,7 +160,7 @@ const CreateExpense = async (req, res) => {
 
     // step2
 
-    const noOfUsers = req.body.PaidTo.length;
+    const noOfUsers = (req.body.PaidTo.length) + 1;
     const ActualAmount = req.body.Amount;
 
     const splittedAmount = ActualAmount / noOfUsers;
