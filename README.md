@@ -1,7 +1,7 @@
 # SplitWiseApp
 This provides the backend Apis necessary for a splitwise Application under coding and design project for setu
 
-The Application can be tested by using the collection of apis
+This Application can be tested by using the collection of apis
 
 https://warped-zodiac-79354.postman.co/workspace/d07bb443-a5ad-493e-acc6-011f12fb380a/overview?feature_overview=show
 
